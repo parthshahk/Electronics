@@ -45,6 +45,11 @@
                         <a class="grey-text text-lighten-4 modal-trigger" href="#contactModal"><i class="fa fa-phone" aria-hidden="true"></i></a>
                     </div>
 
+                    <div class="col l4 s12 offset-l2 footer-social">
+                        <h5 class="white-text light">Source</h5>
+                        <a class="grey-text text-lighten-4" href="https://github.com/malgadi-nadiad/Electronics" target="_BLANK"><i class="fa fa-github" aria-hidden="true"></i></a>
+                    </div>
+
                 </div>
 
                 <div class="row">
