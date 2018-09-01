@@ -7,5 +7,14 @@
         "captionBig" : "You Demand, We Deliver",
         "captionSmallClasslist" : "grey-text text-lighten-3 light",
         "captionSmall" : "Malgadi Electronics"
+    },
+    {
+        "image" : "/images/slider/code.jpg",
+        "imageAlt" : "Code Illustration",
+        "alignment" : "right-align",
+        "captionBigClasslist" : "white-text",
+        "captionBig" : "Malgadi Now Open Source!",
+        "captionSmallClasslist" : "grey-text text-lighten-3 light",
+        "captionSmall" : "Learn/Contribute on GitHub"
     }
 ]
