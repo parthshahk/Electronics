@@ -1,0 +1,28 @@
+{
+    "orderPlaced" : [
+        "Ria L.",
+        "Ravi P.",
+        "Hardik R."
+    ],
+
+    "newMessage" : [
+        "Parth S.",
+        "Ravi P."
+    ],
+
+    "newReview" : [
+        "Parth S."
+    ],
+
+    "orderDelivered" : [
+        "Ravi P.",
+        "Ria L.",
+        "Hardik R."
+    ],
+
+    "orderCanceled" : [
+        "Ria L.",
+        "Ravi P.",
+        "Hardik R."
+    ]
+}

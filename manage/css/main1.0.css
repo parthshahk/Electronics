@@ -1,0 +1,75 @@
+nav{
+    background-image: url('../images/navBackground.jpg');
+    background-repeat: repeat;
+}
+
+button, input, optgroup, select, textarea, html {
+    font-family: 'Oxygen' !important;
+}
+
+.header, .main {
+    padding-left: 235px;
+}
+
+@media only screen and (max-width : 992px) {
+    .header, .main {
+        padding-left: 0;
+    }
+}
+
+.input-field input:focus + label, textarea:focus + label, .input-field .prefix.active {
+    color: #37474f !important;
+}
+.input-field input, textarea {
+    font-size: 1.1em !important;
+    color: #454545;
+    padding: 3px !important;
+}
+.input-field input:focus, textarea:focus {
+    border-bottom: 1px solid #37474f !important;
+    box-shadow: 0 1px 0 0 #37474f !important;
+}
+
+.switch label input[type=checkbox]:checked+.lever{
+    background-color: #b3e5fc !important;
+}
+
+.switch label input[type=checkbox]:checked+.lever:after{
+    background-color: #01579b !important;
+}
+
+.loggedin[type="checkbox"]:checked+span:not(.lever):before{
+    border-right: 2px solid #263238;
+    border-bottom: 2px solid #263238;
+}
+
+.brand-logo{
+    font-family: 'Anton';
+}
+
+.sidenav-trigger{
+    font-size: 1.5em;
+}
+
+.sidenav{
+    width: 235px;
+}
+
+.collapsible-header{
+    justify-content: space-between;
+}
+
+.ostatus{
+    font-size: 0.8em;
+    padding: 2px 10px 0 10px;
+    border-radius: 10px;
+}
+
+.pagination li.active{
+    background-color: #37474f !important;
+}
+
+.fileEditor{
+    border: 1px solid #EEE;
+    font-family: 'Courier New', Courier, monospace !important;
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "image" : "/images/team/ravi.jpg",
+        "name" : "Ravi Pandya",
+        "phone" : "9737849175"
+    },
+    {
+        "image" : "/images/team/hardik.jpg",
+        "name" : "Hardik Radadiya",
+        "phone" : "8469430736"
+    },
+    {
+        "image" : "/images/team/ria.jpg",
+        "name" : "Ria Langalia",
+        "phone" : "9898067495"
+    },
+    {
+        "image" : "/images/team/riddhesh.jpg",
+        "name" : "Riddhesh Bhanushali",
+        "phone" : "7878188011"
+    }
+]

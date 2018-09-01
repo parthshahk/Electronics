@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /manage
+
+Sitemap: http://electronics.malgadi.co.in/sitemap.xml

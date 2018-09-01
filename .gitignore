@@ -1,0 +1,11 @@
+# Creates a backup of the database every week
+db-backup/
+
+# Notifies me if an error has occured on server
+error-sweeper.php
+
+# Contains the credentials for PHPMailer
+handlers/mail-credentials.php
+
+# Contains the credentials for MySQL db
+includes/db-credentials.php

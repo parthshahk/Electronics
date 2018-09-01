@@ -1,0 +1,11 @@
+[
+    {
+        "image" : "/images/slider/default.jpg",
+        "imageAlt" : "Circuit Board Illustration",
+        "alignment" : "left-align",
+        "captionBigClasslist" : "white-text",
+        "captionBig" : "You Demand, We Deliver",
+        "captionSmallClasslist" : "grey-text text-lighten-3 light",
+        "captionSmall" : "Malgadi Electronics"
+    }
+]

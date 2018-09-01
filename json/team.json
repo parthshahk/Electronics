@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Parth S.",
+        "image" : "/images/team/parth.jpg",
+        "email" :  "parthshahk@gmail.com"
+    },
+    {
+        "name" : "Vaishnavi J.",
+        "image" : "/images/team/vaishnavi.jpg",
+        "email" : "vaish.joshi9@gmail.com"
+    },
+    {
+        "name" : "Hardik R.",
+        "image" : "/images/team/hardik.jpg",
+        "email" : "hradadiya57@gmail.com"
+    },
+    {
+        "name" : "Rajashree K.",
+        "image" : "/images/team/rajashree.jpg",
+        "email" : ""
+    },
+    {
+        "name" : "Preet S.",
+        "image" : "/images/team/preet.jpg",
+        "email" : ""
+    },
+    {
+        "name" : "Ravi P.",
+        "image" : "/images/team/ravi.jpg",
+        "email" : "ravipandya320@gmail.com"
+    },
+    {
+        "name" : "Ria L.",
+        "image" : "/images/team/ria.jpg",
+        "email" : "rialangalia12@gmail.com"
+    },
+    {
+        "name" : "Riddhesh B.",
+        "image" : "/images/team/riddhesh.jpg",
+        "email" : "riddheshbhanushali999@gmail.com"
+    }
+]
