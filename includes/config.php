@@ -20,6 +20,28 @@
     $DBCpath .= "/includes/db-credentials.php";
     include $DBCpath;                                   //  Contains MySQL username and Password. Ignored in git.
 
+    /*
+        Template of db-credentials.php
+
+        if($_SERVER['SERVER_NAME'] == 'electronics.malgadi.co.in'){
+
+            $host =  '';
+            $user = '';
+            $password = '';
+            $dbname = '';
+
+        }else if($_SERVER['SERVER_NAME'] == 'localhost'){
+
+            $host =  '';
+            $user = '';
+            $password = '';
+            $dbname = '';
+
+        }else{
+            exit(0);
+        }
+    */
+
     $dsn = 'mysql:host='. $host .';dbname='. $dbname;
 
     $pdo = new PDO($dsn, $user, $password);

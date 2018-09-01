@@ -24,6 +24,12 @@
     $mail->Host = 'smtp.gmail.com'; 
     $mail->SMTPAuth = true;                         
     include 'mail-credentials.php';                             // Contains Credentials to malgadi gmail account. Ignored in git.
+    /*
+        Template of mail-credentials.php
+
+        $mail->Username = '';          
+        $mail->Password = '';
+    */
     $mail->SMTPSecure = 'tls';                         
     $mail->Port = 587;              
     $mail->setFrom('ready2help.malgadi@gmail.com', 'Malgadi Electronics');
