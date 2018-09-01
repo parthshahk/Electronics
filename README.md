@@ -11,3 +11,7 @@ http://electronics.malgadi.co.in
 Malgadi is a subsidiary company of [Heaven Solar](http://heavensolarenergy.com).
 
 ![Image of HeavenLogo](http://heavensolarenergy.com/images/full-logo-stroked.png)
+
+This repo contains the full code of Malgadi Electronics website. It was made public so that students can learn from it and even collabrate to help Malgadi improve and grow in the future.
+
+Feel free to help us by solving known issues or implementing new ideas to the website!
