@@ -75,7 +75,12 @@
                 <div class="col s12">
                     <a target="_blank" href="https://github.com/malgadi-nadiad/Electronics"><i class="fa fa-github"></i></a>
                 </div>
+                <div class="col s12">
+                    <a class="github-button" href="https://github.com/malgadi-nadiad/electronics/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork malgadi-nadiad/electronics on GitHub">Fork</a>
+                    <a class="github-button" href="https://github.com/malgadi-nadiad/electronics/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue malgadi-nadiad/electronics on GitHub">Issue</a>
+                </div>
             </div>
+            <script async defer src="https://buttons.github.io/buttons.js"></script>
         </section>
 
         <!-- Homepage Cards -->
