@@ -67,6 +67,15 @@
                     <a class="modal-trigger" href="#contactModal"><i class="fa fa-phone"></i></a>
                 </div>
             </div>
+            <div class="row"></div>
+            <div class="row center">
+                <div class="col s12">
+                    <h5 class="light white-text">LEARN / CONTRIBUTE TO THE CODE</h5>
+                </div>
+                <div class="col s12">
+                    <a target="_blank" href="https://github.com/malgadi-nadiad/Electronics"><i class="fa fa-github"></i></a>
+                </div>
+            </div>
         </section>
 
         <!-- Homepage Cards -->
