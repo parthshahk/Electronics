@@ -54,7 +54,7 @@
         </section>
 
         <!-- Social -->
-        <section class="light-blue darken-4 social-icons">
+        <section class="blue darken-2 social-icons">
             <div class="row center">
                 <div class="col s12">
                     <h5 class="light white-text">CONNECT WITH US</h5>
@@ -78,6 +78,9 @@
                 <div class="col s12">
                     <a class="github-button" href="https://github.com/malgadi-nadiad/electronics/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork malgadi-nadiad/electronics on GitHub">Fork</a>
                     <a class="github-button" href="https://github.com/malgadi-nadiad/electronics/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue malgadi-nadiad/electronics on GitHub">Issue</a>
+                </div>
+                <div class="col s12 center white-text">
+                    <h6 class="light">CONTRIBUTE TO THE CODE AND GET A CHANCE TO BE A PART OF MALGADI TEAM!</h6>
                 </div>
             </div>
             <script async defer src="https://buttons.github.io/buttons.js"></script>

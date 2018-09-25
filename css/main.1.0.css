@@ -114,6 +114,9 @@ nav .tabs .tab a:hover{
     color: #FFFFFF;
     margin: 10px 10px;
 }
+.social-icons h6{
+    line-height:1.8rem;
+}
 
 /*      Reviews     */
 .reviews{
