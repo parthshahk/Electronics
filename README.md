@@ -1,4 +1,5 @@
 # Malgadi Electronics
+Detailed documentation coming soon!
 
 ![Image of Logo](http://electronics.malgadi.co.in/images/logo.jpg)
 
