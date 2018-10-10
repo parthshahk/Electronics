@@ -113,13 +113,13 @@ This privilege level offers only sufficient information to non-technical members
 ### Pending Orders
 
 <p align="center">
-    <img src="./documentation/images/pending_orders.png">
+    <img src="./documentation/images/pending_orders.PNG">
 </p>
 
 Pending orders are listed in the form of _drawers_ for each order. Clikcing on these drawers will pull all the information of that order as shown below. The number on the _drawer handle_ indicates the Order ID.
 
 <p align="center">
-    <img src="./documentation/images/pending_order_expand.png">
+    <img src="./documentation/images/pending_order_expand.PNG">
 </p>
 
 Clicking on the Email ID or the phone number will directly open the email app and the caller app respectively, so there is no need to copy it when needed.
@@ -127,7 +127,7 @@ Clicking on the Email ID or the phone number will directly open the email app an
 To mark the order as delivered hit the deliver button in the drawer and to cancel the button hit the cancel button. To perform this action the member must select their name from the top dropdown, so there is always a record of who handled which order. Once these actions are performed, there is no going back because emails of confirmations have been sent by this time.
 
 <p align="center">
-    <img src="./documentation/images/stock_requirement.png">
+    <img src="./documentation/images/stock_requirement.PNG">
 </p>
 
 The Stock Requirement function will list out all the products along with quantities required to complete the pending orders. Moreover it will also show the order ID of that product requirement. Same information, different view.
