@@ -131,3 +131,11 @@ To mark the order as delivered hit the deliver button in the drawer and to cance
 </p>
 
 The Stock Requirement function will list out all the products along with quantities required to complete the pending orders. Moreover it will also show the order ID of that product requirement. Same information, different view.
+
+### Orders
+
+<p align="center">
+    <img src="./documentation/images/orders.PNG">
+</p>
+
+This page will display all the orders from the database. The drawers are marked with the order status of `pending`, `canceled` and `delivered`. Opening the drawer will show the same information as in the Pending Order section and will also show who `delivered` or `canceled` the order. An order can also be searched by the order ID using the search form available at the top of the page.
