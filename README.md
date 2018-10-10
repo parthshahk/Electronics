@@ -80,7 +80,7 @@ MySQL database is used to store data on server.
 
 ## **Using the Member Section**
 
-The `Member Section` requires a password to access for obvious reasons. There are 2 different level of privileges for `Member Section`.
+The **Member Section** requires a password to access for obvious reasons. There are 2 different level of privileges for **Member Section**.
 
 1. Master Login
 2. Normal Login
