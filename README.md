@@ -124,7 +124,7 @@ Pending orders are listed in the form of _drawers_ for each order. Clikcing on t
 
 Clicking on the Email ID or the phone number will directly open the email app and the caller app respectively, so there is no need to copy it when needed.
 
-To mark the order as delivered hit the deliver button in the drawer and to cancel the button hit the cancel button. To perform this action the member must select their name from the top dropdown, so there is always a record of who handled which order. Once these actions are performed, there is no going back because emails of confirmations have been sent by this time.
+To mark the order as delivered hit the deliver button in the drawer and to cancel the order, hit the cancel button. To perform this action the member must select their name from the top dropdown, so that there is always a record of who handled which order. Once these actions are performed, there is no going back because emails of confirmations have been sent by this time.
 
 <p align="center">
     <img src="./documentation/images/stock_requirement.PNG">
