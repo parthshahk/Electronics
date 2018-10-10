@@ -141,4 +141,20 @@ This page will display all the orders from the database. The drawers are marked 
 
 ### Products
 
-This page displays and controls all the products available on the website. 
+This page displays and controls all the products available on the website.
+
+<p align="center">
+    <img src="./documentation/images/products_top.PNG">
+</p>
+
+The top part of this page contains the following components:
+
+- Search<br>
+Used to search a product by the product ID. The product ID can be known by looking at the URL of the _item page_ on the website. The number after `q` in the URL is the product ID.
+
+- Waiting List<br>
+This will display the number of people "waiting" for an out of stock product. When a user uses the `Notify Me` feature for the out of stock products, that information is shown here. When the product is made _in stock_, these users are automatically notified via email.
+
+- Add Product<br>
+This function can be used to add new products to the website. It is very important to follow the _Add Product Guidelines_ in order for the website to function correctly. These instructions are avilable at the top of the _Add Product_ page.
+
