@@ -15,7 +15,6 @@ We intend to develop this platform and extend its reach to as many students as p
     Malgadi is a subsidiary company of <a href="http://heavensolarenergy.com" target="_BLANK">Heaven Solar</a>.
 </p>
 
-
 ---
 
 ## **The Website**
@@ -139,3 +138,7 @@ The Stock Requirement function will list out all the products along with quantit
 </p>
 
 This page will display all the orders from the database. The drawers are marked with the order status of `pending`, `canceled` and `delivered`. Opening the drawer will show the same information as in the Pending Order section and will also show who `delivered` or `canceled` the order. An order can also be searched by the order ID using the search form available at the top of the page.
+
+### Products
+
+This page displays and controls all the products available on the website. 
