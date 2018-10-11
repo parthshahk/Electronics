@@ -168,5 +168,15 @@ The number in the heading is the item ID followed by the _Full Name_ of the item
 
 Further, there are 3 switches, `Stock Status`, `Homepage` and `Featured`. The use of each switch is described below.
 
-- Stock Status
-If the item is in stock, leave the switch _on_. And to make the item out of stock, simply turn off the switch.
+- Stock Status<br>
+If the item is in stock, leave the switch _on_. And to make the item out of stock, simply turn off the switch. Easy!
+
+- Homepage<br>
+If this switch is turned on, the item will show up on the homepage of the website. Use this feature to display most common items on the homepage. The _homepage_ items will be shown **after** the _connect with us_ section on the homepage.
+
+- Featured<br>
+If this switch is turned on, the item will show up in the top part of the homepage. This function is reserved for top selling products of the website. The _featured_ items will be shown **before** the _connect with us_ section on the homepage.
+
+> **Please Note**<br>
+> - Do not turn on both _homepage_ and _featured_ switches. Doing so will display the product twice on the homepage.
+> - Try to keep the number of _featured_ items around 4 and the number of _homepage_ items no more than 20. This will ensure a nice view of the page and fast loading.
