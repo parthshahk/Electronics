@@ -180,3 +180,27 @@ If this switch is turned on, the item will show up in the top part of the homepa
 > **Please Note**<br>
 > - Do not turn on both _homepage_ and _featured_ switches. Doing so will display the product twice on the homepage.
 > - Try to keep the number of _featured_ items around 4 and the number of _homepage_ items no more than 20. This will ensure a nice view of the page and fast loading.
+
+There are 2 more functions remaining, `edit` and `delete`. To make changes in the information of an item use the `edit` function. Just like `Add Item`, `edit` also has some guidelines that are to be followed. These instructions will be available on the edit page itself. And finally, the `delete` option will permanently delete the item from the website. There is no going back from this.
+
+### Reviews
+
+This page will display all the reviews submitted by the users. Each review is on the form of a _drawer_. Clicking on the _drawer_ will display the review as shown below.
+
+<p align="center">
+    <img src="./documentation/images/reviews.PNG">
+</p>
+
+Each drawer has a switch on the right. This switch controls the visibility of the review. When a new review is posted, it won't be visible on the website right away. The switch will be _off_ for the new review. If the review is worth showing on the website, simply turn on the switch.
+
+### Messages
+
+This page will display the _Contact Messages_ and the _Special Orders_ of the users, submitted via the website.
+
+<p align="center">
+    <img src="./documentation/images/messages.PNG">
+</p>
+
+Just like reviews, each message as a separate _drawer_. Clicking on the drawer will display the message.
+
+### Statistics
