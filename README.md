@@ -204,3 +204,7 @@ This page will display the _Contact Messages_ and the _Special Orders_ of the us
 Just like reviews, each message as a separate _drawer_. Clicking on the drawer will display the message.
 
 ### Statistics
+
+On this page, all sorts of statistics are available for analysis. These statistics include sales, orders, views, users, various comparison graphs, etc.
+
+### Configurations
