@@ -158,3 +158,15 @@ This will display the number of people "waiting" for an out of stock product. Wh
 - Add Product<br>
 This function can be used to add new products to the website. It is very important to follow the _Add Product Guidelines_ in order for the website to function correctly. These instructions are avilable at the top of the _Add Product_ page.
 
+The rest of the page contains the listing of the individual items. Each item has it's own card. Each card looks like the one showed below.
+
+<p align="center">
+    <img src="./documentation/images/product_listing.PNG">
+</p>
+
+The number in the heading is the item ID followed by the _Full Name_ of the item. The `waiting` shows the number of people who are _Waitng_ for the product to be in stock, i.e. the number of people who used the `Notify Me` feature for an out of stock item. Once the item is in stock, these people are automatically notified via email.
+
+Further, there are 3 switches, `Stock Status`, `Homepage` and `Featured`. The use of each switch is described below.
+
+- Stock Status
+If the item is in stock, leave the switch _on_. And to make the item out of stock, simply turn off the switch.
