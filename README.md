@@ -244,7 +244,7 @@ Save the image in the given directory and provide the relative path in the `imag
 Simply add/remove the objects as shown in the json array to add/remove team members.
 
 > **Please Note**<br>
-> In order to display team member images properly on the about page, the dimension of all images should be _square_.
+> In order to display team member images properly on the about page, the dimensions of all images should be _square_.
 
 #### Notifications.json
 In this application, whenever an there is some activity on the website - placing an order, submitting a message, etc., The desired team members are notified automatically by email. This file stores the name of the people to be notified on various events as explained below.
@@ -287,11 +287,11 @@ Simply add/remove objects in the array to add/remove people from the contact mod
 ---
 ## **Other Provisions** 
 
-### Database Auto Baskup
-The folder `/db-backup` contains a backup generator of the database. It generates a database backup in the same folder updated every week. So if anything was to happen to the database, you may find a backup in this folder.
+### Database Auto Backup
+The folder `/db-backup` contains a backup generator of the database. It generates a database backup in the same folder and updates it every week. So if anything was to happen to the database, you may find a backup in this folder.
 
 ### Error Sweeper
-This file is present in the root directory. It _sweeps_ the website error logs periodically and notifies the person whose email ID is provided in the file about the error if found.
+This file is present in the root directory. It _sweeps_ the website's error logs periodically and notifies the person whose email ID is provided in the file about the error if found.
 
 ---
 
