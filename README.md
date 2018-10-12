@@ -290,6 +290,9 @@ Simply add/remove objects in the array to add/remove people from the contact mod
 ### Database Auto Baskup
 The folder `/db-backup` contains a backup generator of the database. It generates a database backup in the same folder updated every week. So if anything was to happen to the database, you may find a backup in this folder.
 
+### Error Sweeper
+This file is present in the root directory. It _sweeps_ the website error logs periodically and notifies the person whose email ID is provided in the file about the error if found.
+
 ---
 
 This covers everything that is required to run the website without any issues. If everything is followed in the documentation, the website is least likely to show any errors ever.
