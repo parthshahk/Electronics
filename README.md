@@ -208,3 +208,88 @@ Just like reviews, each message as a separate _drawer_. Clicking on the drawer w
 On this page, all sorts of statistics are available for analysis. These statistics include sales, orders, views, users, various comparison graphs, etc.
 
 ### Configurations
+
+This page allows you to change certain configurations of the website. In order to use this, knowledge of `JSON` language is required because these configurations are stored in json format.
+
+There are 4 configuration file that control certain aspects of the website. Each described below:
+
+#### Slider.json
+This configuration is for the _full width image slider_ on the homepage of the website.
+
+Each image has a caption and a sub caption. Any number of slider images are possible, but it does affect the page loading time. Thus, about 3 images would be just fine. The image path has to be provided in the `image` key of json.
+
+The 2 captions keys in json are - `captionBig` and `captionSmall`, for a caption and sub caption respectively.
+
+The caption and the sub caption, both have it's own (MaterializeCSS) classes. These keys are available in the json as well, namely `captionBigClasslist` and `captionSmallClasslist`. Use these to change the colors of the caption. Refer MaterializeCSS [website](https://materializecss.com) for color classes.
+
+To add/remove a slider image, simply add/remove objects to the array.
+
+Refer MaterializeCSS [website](https://materializecss.com) for more information on the _full width slider_.
+
+The JSON slider data looks like this:
+<p align="center">
+    <img src="./documentation/images/sliderjson.PNG">
+</p>
+
+#### Team.json
+
+This file maintains a list of current team members of Malgadi Electronics. Further, this list is used on the about page to display images and in notifications.json for configurations. Thus team.json is important to maintain. It looks like this:
+
+<p align="center">
+    <img src="./documentation/images/teamjson.PNG">
+</p>
+
+Save the image in the given directory and provide the relative path in the `image` key. The `email` key is required for notifications (for notifications.json).
+
+Simply add/remove the objects as shown in the json array to add/remove team members.
+
+> **Please Note**<br>
+> In order to display team member images properly on the about page, the dimension of all images should be _square_.
+
+#### Notifications.json
+In this application, whenever an there is some activity on the website - placing an order, submitting a message, etc., The desired team members are notified automatically by email. This file stores the name of the people to be notified on various events as explained below.
+
+- **orderPlaced**: When a new order is placed through the website.
+- **newMessage**: When a user submits a _contact message_ / _special order_.
+- **newReview**: When a new review is posted.
+- **orderCanceled**: When an order is canceled through the member section.
+
+The file looks like this:
+
+<p align="center">
+    <img src="./documentation/images/notificationsjson.PNG">
+</p>
+
+> **Important**<br>
+> - Use exact names used in the team.json file because it fetches the email of the person from team.json file.
+> - Do not put more than 3 names per category because there is some time cost in sending these email.
+
+#### Contacts.json
+
+When the _call_ button is pressed on the website, the following modal pops up:
+
+<p align="center">
+    <img src="./documentation/images/contactmodal.PNG">
+</p>
+
+This file configures the people shown in this modal.
+
+The file looks like this:
+
+<p align="center">
+    <img src="./documentation/images/contactsjson.PNG">
+</p>
+
+This file's on it's own. Thus, names can be different in it. You may use the same image path used in the team.json.
+
+Simply add/remove objects in the array to add/remove people from the contact modal. Any number of people in the modal is possible but 3 is most favourable.
+
+---
+## **Other Provisions** 
+
+### Database Auto Baskup
+The folder `/db-backup` contains a backup generator of the database. It generates a database backup in the same folder updated every week. So if anything was to happen to the database, you may find a backup in this folder.
+
+---
+
+This covers everything that is required to run the website without any issues. If everything is followed in the documentation, the website is least likely to show any errors ever.
