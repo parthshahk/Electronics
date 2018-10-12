@@ -211,7 +211,7 @@ On this page, all sorts of statistics are available for analysis. These statisti
 
 This page allows you to change certain configurations of the website. In order to use this, knowledge of `JSON` language is required because these configurations are stored in json format.
 
-There are 4 configuration file that control certain aspects of the website. Each described below:
+There are 4 configuration files that control various aspects of the website. Each described below:
 
 #### Slider.json
 This configuration is for the _full width image slider_ on the homepage of the website.
