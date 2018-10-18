@@ -39,7 +39,6 @@
                     <li><a href="review.php">Review Us</a></li>
                     <li><a href="#contact-form">Contact</a></li>
                     <li><a href="about.php">About Us</a></li>
-                    <!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1DpnRT_YHrzkzEAUbYR0SyQWFgWjUf4Py4IQ8XGjbFX4VGw/viewform?usp=sf_link" target="_BLANK">We are Hiring!</a></li> -->
                 </ul>
                 <div class="<?php echo $extendNavbar ? 'show' : 'hide'; ?>"><br><br><br><br></div>
             </div>
@@ -106,8 +105,7 @@
             <li class="hide-on-large-only"><a href="<?php echo BaseAddress; ?>/cart.php"><span class="light">My Cart</span><i class="fa fa-shopping-cart right" aria-hidden="true"></i></a></li>
             <li class="hide-on-large-only"><a href="<?php echo BaseAddress; ?>/track.php"><span class="light">Track Order</span><i class="fa fa-truck right" aria-hidden="true"></i></a></li>
             <li class="hide-on-large-only sidenav-close"><a href="#contact-form"><span class="light">Contact</span></a></li>
-            <li class="hide-on-large-only"><a href="about.php"><span class="light">About Us</span></a></li> 
-            <!-- <li class="hide-on-large-only"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1DpnRT_YHrzkzEAUbYR0SyQWFgWjUf4Py4IQ8XGjbFX4VGw/viewform?usp=sf_link" target="_BLANK"><span class="light">We Are Hiring!</span></a></li>              -->
+            <li class="hide-on-large-only"><a href="about.php"><span class="light">About Us</span></a></li>
             <li class="hide-on-large-only"><a href="review.php"><span class="light">Review Us</span></a></li>
             <li class="hide-on-large-only sidenav-close"><a href="#contact-form"><span class="light">Special Order</span></a></li>
                

@@ -29,7 +29,6 @@
                             <li><a class="grey-text text-lighten-3" href="#contact-form">Contact</a></li>
                             <li><a class="grey-text text-lighten-3" href="about.php">About Us</a></li>
                             <li><a class="grey-text text-lighten-3" href="http://malgadi.co.in">Malgadi.co.in</a></li>
-                            <!-- <li><a class="grey-text text-lighten-3" target="_BLANK" href="https://docs.google.com/forms/d/e/1FAIpQLSe1DpnRT_YHrzkzEAUbYR0SyQWFgWjUf4Py4IQ8XGjbFX4VGw/viewform?usp=sf_link">WE ARE HIRING!</a></li> -->
                         </ul>
                     </div>
 
