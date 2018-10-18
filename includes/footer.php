@@ -84,12 +84,12 @@
 
                     <div class="hide-on-small-only">
                         &copy; <?php echo date("Y");?> Malgadi Electronics. All Rights Reserved                    
-                        <span class="right">Designed by <a href="https://parthshah.xyz" target="_BLANK" class="credits">Parth Shah <i class="fa fa-external-link" aria-hidden="true"></i></a></span>
+                        <span class="right">Designed by <a href="https://parthshahk.github.io/" target="_BLANK" class="credits">Parth Shah <i class="fa fa-external-link" aria-hidden="true"></i></a></span>
                     </div>
 
                     <div class="hide-on-med-and-up">
                         <div class="col s12 center">&copy; <?php echo date("Y");?> Malgadi Electronics. All Rights Reserved</div>
-                        <div class="col s12 center">Designed by <a href="https://parthshah.xyz" target="_BLANK" class="credits">Parth Shah <i class="fa fa-external-link" aria-hidden="true"></i></a></div>
+                        <div class="col s12 center">Designed by <a href="https://parthshahk.github.io/" target="_BLANK" class="credits">Parth Shah <i class="fa fa-external-link" aria-hidden="true"></i></a></div>
                     </div>
 
                     <div id="contactModal" class="modal bottom-sheet">
