@@ -2,6 +2,8 @@
 
 <p align="center">
     <img src="./documentation/images/malgadi_electronics_logo.ico" alt="Malgadi Electronics Logo">
+    <br>
+    <a href="http://electronics.malgadi.co.in">http://electronics.malgadi.co.in</a>
 </p>
 
 ## **About Malgadi**
