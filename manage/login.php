@@ -127,7 +127,7 @@
         </section>
 
         <script src="<?php echo BaseAddress; ?>/js/materialize.min.js"></script>
-        <script src="<?php echo ManageAddress; ?>/js/script.js"></script>
+        <script src="<?php echo ManageAddress; ?>/js/script1.0.js"></script>
         <script src="https://use.fontawesome.com/25db837a52.js"></script>
     </body>
 </html>
