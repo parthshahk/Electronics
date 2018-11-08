@@ -12,7 +12,7 @@
                                 <p class="grey-text text-lighten-4 footer-description"><b>Malgadi</b> is a subsidiary company of <b><a href="http://heavensolarenergy.com" target="_BLANK">Heaven Solar <i class="fa fa-external-link" aria-hidden="true"></i></a></b>.</p>
                             </div>
                             <div class="col s8 m4 l6">
-                                <img src="http://heavensolarenergy.com/images/full-logo-stroked.png" alt="Heaven Solar Logo" class="responsive-img">
+                                <img src="./images/heaven-solar-logo.png" alt="Heaven Solar Logo" class="responsive-img">
                             </div>
                         </div>
 

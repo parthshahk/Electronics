@@ -83,7 +83,7 @@
                     <h6 class="light">CONTRIBUTE TO THE CODE AND GET A CHANCE TO BE A PART OF MALGADI TEAM!</h6>
                 </div>
             </div>
-            <script async defer src="https://buttons.github.io/buttons.js"></script>
+            <script async defer src="./js/github-buttons.js"></script>
         </section>
 
         <!-- Homepage Cards -->
