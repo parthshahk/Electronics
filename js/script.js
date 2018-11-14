@@ -217,6 +217,7 @@ function addToCart(id){
     button.classList.add("amber");
     icon.classList.remove("fa-cart-plus");
     icon.classList.add("fa-refresh");
+    icon.classList.add("fa-spin");
 
     if(buttonText !== null){
         buttonText.innerText = "Working";
@@ -229,6 +230,7 @@ function addToCart(id){
             button.classList.remove("amber");
             button.classList.add("green","z-depth-0");
             icon.classList.remove("fa-refresh");
+            icon.classList.remove("fa-spin");
             icon.classList.add("fa-check");
 
             if(buttonText !== null){
@@ -296,7 +298,7 @@ function updateCartAmount(){
 
 function quantityIncrease(id){
 
-    document.getElementById("quantity"+id).innerHTML = '<i class="fa fa-cogs" aria-hidden="true"></i>';
+    document.getElementById("quantity"+id).innerHTML = '<i class="fa fa-cog fa-spin" aria-hidden="true"></i>';
     
     var request = new XMLHttpRequest();
     request.onload = function(){
@@ -311,7 +313,7 @@ function quantityIncrease(id){
 
 function quantityDecrease(id){
 
-    document.getElementById("quantity"+id).innerHTML = '<i class="fa fa-cogs" aria-hidden="true"></i>';
+    document.getElementById("quantity"+id).innerHTML = '<i class="fa fa-cog fa-spin" aria-hidden="true"></i>';
     
     var request = new XMLHttpRequest();
     request.onload = function(){
