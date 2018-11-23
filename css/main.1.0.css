@@ -55,6 +55,9 @@ nav .tabs .tab a:hover{
     color: inherit;
     font-weight: 500;
 }
+.credits-link {
+    font-size: 0.7rem !important;
+}
 .footer-social a{
     color: #FFFFFF;
     margin-right: 20px;

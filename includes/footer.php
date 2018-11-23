@@ -82,14 +82,12 @@
             <div class="footer-copyright">
                 <div class="container">
 
-                    <div class="hide-on-small-only">
-                        &copy; <?php echo date("Y");?> Malgadi Electronics. All Rights Reserved                    
-                        <span class="right">Designed by <a href="https://parthshahk.github.io/" target="_BLANK" class="credits">Parth Shah <i class="fa fa-external-link" aria-hidden="true"></i></a></span>
+                    <div class="col s12 center">
+                        &copy; <?php echo date("Y");?> <a href="https://parthshahk.github.io/" target="_BLANK" class="credits">Parth Shah</a> <i class="fa fa-external-link credits-link" aria-hidden="true"></i>
                     </div>
 
-                    <div class="hide-on-med-and-up">
-                        <div class="col s12 center">&copy; <?php echo date("Y");?> Malgadi Electronics. All Rights Reserved</div>
-                        <div class="col s12 center">Designed by <a href="https://parthshahk.github.io/" target="_BLANK" class="credits">Parth Shah <i class="fa fa-external-link" aria-hidden="true"></i></a></div>
+                    <div class="col s12 center">
+                        Released under the <a href="https://opensource.org/licenses/MIT" target="_BLANK" class="credits">MIT</a> License
                     </div>
 
                     <div id="contactModal" class="modal bottom-sheet">
