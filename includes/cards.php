@@ -43,7 +43,11 @@
                                     <?php echo $row['Short Name']; ?>
                                     <i class="fa fa-ellipsis-v right hide-on-med-and-up" aria-hidden="true"></i>
                                 </span>
-                                <p class="blue-text <?php echo $row['Stock Status'] ? '' : 'hide'; ?>">Rs. <?php echo $row['Selling Price']; ?> <strike class="grey-text">Rs. <?php echo $row['Original Price']; ?></strike></p>
+                                <p class="blue-text <?php echo $row['Stock Status'] ? '' : 'hide'; ?>">Rs. <?php echo $row['Selling Price']; ?> <strike class="grey-text">Rs. <?php echo $row['Original Price']; ?></strike>
+                                    <?php
+                                        echo "<span class='green-text text-darken-2'>" . round( ($row['Original Price'] - $row['Selling Price']) / $row['Original Price'] * 100 ) . "% off</span>";
+                                    ?>
+                                </p>
                                 <p class='red-text'><?php echo $row['Stock Status'] ? '' : 'OUT OF STOCK'; ?></p>
                             </div>
                             <div class='card-reveal'>
