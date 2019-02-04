@@ -25,7 +25,7 @@
                             <h4 class="light">Add Product</h4>
                         </div>
                         <div class="col s12 center">
-                            <p class=light"">Please read these <a href="#addIns" class="modal-trigger">instructions</a> carefully before adding a product.</p>
+                            <p class="light">Please read these <a href="#addIns" class="modal-trigger">instructions</a> carefully before adding a product.</p>
                         </div>
                     </div>
 

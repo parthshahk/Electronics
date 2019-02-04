@@ -45,7 +45,7 @@
                             <h4 class="light">Edit Product</h4>
                         </div>
                         <div class="col s12 center">
-                            <p class=light"">Please read these <a href="#editIns" class="modal-trigger">instructions</a> carefully before editing a product.</p>
+                            <p class="light">Please read these <a href="#editIns" class="modal-trigger">instructions</a> carefully before editing a product.</p>
                         </div>
                     </div>
 
