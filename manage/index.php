@@ -93,11 +93,15 @@
                                 </thead>
                                 <tbody>
                                     <?php
-                                        foreach ($requirement as $reqItem) {
-                                            echo "<tr>";
-                                            echo "<td>".$reqItem['name']."<br><span class='light green-text'>".$reqItem['idList']."</span></td>
-                                                    <td class='right'>".$reqItem['quantity']."</td>";
-                                            echo "</tr>";
+
+                                        if(isset($requirement)){
+
+                                            foreach ($requirement as $reqItem) {
+                                                echo "<tr>";
+                                                echo "<td>".$reqItem['name']."<br><span class='light green-text'>".$reqItem['idList']."</span></td>
+                                                        <td class='right'>".$reqItem['quantity']."</td>";
+                                                echo "</tr>";
+                                            }
                                         }
                                     ?>
                                 </tbody>
