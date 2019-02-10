@@ -1,13 +1,23 @@
 [
     {
-        "name" : "Parth S.",
-        "image" : "/images/team/parth.jpg",
-        "email" :  "parthshahk@gmail.com"
+        "name" : "Adil O.",
+        "image" : "/images/team/adil.jpg",
+        "email" :  ""
     },
     {
-        "name" : "Vaishnavi J.",
-        "image" : "/images/team/vaishnavi.jpg",
-        "email" : "vaish.joshi9@gmail.com"
+        "name" : "Aditi S.",
+        "image" : "/images/team/aditi.jpg",
+        "email" : ""
+    },
+    {
+        "name" : "Ashish C.",
+        "image" : "/images/team/ashish.jpg",
+        "email" : ""
+    },
+    {
+        "name" : "Devanshu B.",
+        "image" : "/images/team/devanshu.jpg",
+        "email" : ""
     },
     {
         "name" : "Hardik R.",
@@ -15,19 +25,24 @@
         "email" : "hradadiya57@gmail.com"
     },
     {
-        "name" : "Rajashree K.",
-        "image" : "/images/team/rajashree.jpg",
+        "name" : "Harmeet D.",
+        "image" : "/images/team/harmeet.jpg",
         "email" : ""
     },
     {
-        "name" : "Preet S.",
-        "image" : "/images/team/preet.jpg",
+        "name" : "Kathan S.",
+        "image" : "/images/team/kathan.jpg",
         "email" : ""
     },
     {
-        "name" : "Ravi P.",
-        "image" : "/images/team/ravi.jpg",
-        "email" : "ravipandya320@gmail.com"
+        "name" : "Meet M.",
+        "image" : "/images/team/meet.jpg",
+        "email" : ""
+    },
+    {
+        "name" : "Mitraj S.",
+        "image" : "/images/team/mitraj.jpg",
+        "email" : ""
     },
     {
         "name" : "Ria L.",
@@ -38,5 +53,15 @@
         "name" : "Riddhesh B.",
         "image" : "/images/team/riddhesh.jpg",
         "email" : "riddheshbhanushali999@gmail.com"
+    },
+    {
+        "name" : "Sachin T.",
+        "image" : "/images/team/sachin.jpg",
+        "email" : ""
+    },
+    {
+        "name" : "Vaidik P.",
+        "image" : "/images/team/vaidik.jpg",
+        "email" : ""
     }
 ]
