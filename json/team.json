@@ -15,6 +15,11 @@
         "email" : ""
     },
     {
+        "name" : "Ashutosh G.",
+        "image" : "/images/team/ashutosh.jpg",
+        "email" : ""   
+    },
+    {
         "name" : "Devanshu B.",
         "image" : "/images/team/devanshu.jpg",
         "email" : ""
